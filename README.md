@@ -1,4 +1,4 @@
-#dcist26-compilation 
+#dcit26-compilation 
 A compilation of REact Native examples for the ccourse DCIT 26 - Application Development and Emerging Technologies
 
 ## Snacks
