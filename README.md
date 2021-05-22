@@ -4,13 +4,21 @@ A compilation of REact Native examples for the ccourse DCIT 26 - Application Dev
 ## Snacks
 
 *https://snack.expo.io/@joylynlopez/laboratory-1
+
 *https://snack.expo.io/@joylynlopez/laboratory-2
+
 *https://snack.expo.io/@joylynlopez/laboratory-3
+
 *https://snack.expo.io/@joylynlopez/laboratory-4
+
 *https://snack.expo.io/@joylynlopez/laboratory-6
 
-##Members (BSCS 3-4)
+## Members (BSCS 3-4)
+
 *Lopez, Joylyn M.
+
 *Chan, Alexander Cane
+
 *Co, Anglica Marie E.
-*Mojica,Vanessa Jane E.
+
+*Mojica,Vanessa Jane A.
